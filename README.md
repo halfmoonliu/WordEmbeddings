@@ -1,2 +1,3 @@
 # WordEmbeddings
 Word Embedding is an effective way to represent relationship between words. Words with similar neighbors (context) have similar embeddings. In the now well-known paper published by Mikolov et al (2013), they demonstrated how to use continuous bag-of-words (CBOW) model to train word embeddings, which can be applied to analogy and other downstream tasks. This project uses Numpy to train word embeddings using CBOW model from scratch and apply on analogy task. Please see the jupyter notebook in the repository for details!
+Check also __<ins>my blog post</ins>__(https://halfmoonliu.github.io/posts/train-word-embeddings-with-cbow-model-link/) for more detailed description!
